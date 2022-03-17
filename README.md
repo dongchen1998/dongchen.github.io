@@ -1,7 +1,7 @@
 ## 欢迎来到我的个人博客
 
 
-
+你可以点击此连接访问我的网站 https://kitty19980606.github.io/dongchen1998.github.io/
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
